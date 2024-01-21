@@ -1,2 +1,2 @@
-# programacion-js-page
+# programacion-js-page/index.html
 index.html
